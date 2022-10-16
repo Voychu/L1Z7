@@ -2,8 +2,6 @@ package com.zad7.artifact;
 
 public class Rectangle extends Shape
 	{
-	public double width;
-	public double length;
 	
 	public double field(double length, double width)
 		{
