@@ -1,7 +1,8 @@
 package com.zad7.artifact;
 
-public class Square extends Shape
+public class Square extends AbstractShape
 {
+	public double length;
 	
 	public double field(double length)
 		{

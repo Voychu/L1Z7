@@ -1,6 +1,7 @@
 package com.zad7.artifact;
 
-public abstract class Shape 
+//klasa do dziedziczenia zmiennych
+public abstract class AbstractShape 
 	{
 	public double radius;
 	public double length;

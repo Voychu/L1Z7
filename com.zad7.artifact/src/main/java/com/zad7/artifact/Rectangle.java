@@ -1,6 +1,6 @@
 package com.zad7.artifact;
 
-public class Rectangle extends Shape
+public class Rectangle extends AbstractShape
 	{
 	
 	public double field(double length, double width)

@@ -1,7 +1,7 @@
 package com.zad7.artifact;
 
 
-public class Circle extends Shape
+public class Circle extends AbstractShape
 	{
 	
 	public double field(double radius)
