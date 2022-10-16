@@ -11,7 +11,8 @@
     </coordinates>
     <panel_attributes>Circle
 --
-+double radius
++double field()
++double circuit()
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -58,8 +59,8 @@
     </coordinates>
     <panel_attributes>Rectangle
 --
-+double length
-+double width
++double field()
++double circuit()
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -73,7 +74,8 @@
     </coordinates>
     <panel_attributes>Square
 --
-+double length</panel_attributes>
++double field()
++double circuit()</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -86,8 +88,9 @@
     </coordinates>
     <panel_attributes>/Shape/
 --
-+double field()
-+double circuit()
++double radius
++double width
++double length
 </panel_attributes>
     <additional_attributes/>
   </element>
