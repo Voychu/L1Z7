@@ -11,7 +11,7 @@
     </coordinates>
     <panel_attributes>Circle
 --
--double radius
++double radius
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -53,13 +53,13 @@
     <coordinates>
       <x>220</x>
       <y>360</y>
-      <w>110</w>
+      <w>120</w>
       <h>100</h>
     </coordinates>
     <panel_attributes>Rectangle
 --
--double length
--double width
++double length
++double width
 </panel_attributes>
     <additional_attributes/>
   </element>
@@ -73,7 +73,7 @@
     </coordinates>
     <panel_attributes>Square
 --
--double length</panel_attributes>
++double length</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
